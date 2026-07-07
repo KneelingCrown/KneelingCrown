@@ -1,368 +1,386 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,35:1e1b4b,70:4c1d95,100:020617&text=KneelingCrown&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20AI-Agentic%20Systems%20%E2%80%A2%20Moscow&descAlignY=58&descSize=17&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,45:161b22,100:0d1117&text=KneelingCrown&fontColor=c9d1d9&fontSize=58&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20AI-Agentic%20Systems%20%E2%80%A2%20Moscow&descAlignY=58&descSize=17&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&width=980&lines=I+do+not+wait+for+the+future.+I+architect+it.;AI%2FML+Developer+%E2%80%A2+Agentic+AI+Builder;Engineering+ambition+into+systems.;Moscow-based+student+building+toward+applied+AI." alt="Typing SVG" />
-
-<br />
-
-<img src="https://img.shields.io/badge/MAI-Student-111827?style=flat-square&labelColor=020617&color=4c1d95" />
-<img src="https://img.shields.io/badge/2nd%20Year-BVO-111827?style=flat-square&labelColor=020617&color=312e81" />
-<img src="https://img.shields.io/badge/Track-Radioelectronic%20Systems-111827?style=flat-square&labelColor=020617&color=3730a3" />
-<img src="https://img.shields.io/badge/Direction-AI%2FML%20%26%20AI%20Agents-111827?style=flat-square&labelColor=020617&color=6d28d9" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=980&lines=%D0%AF+%D0%BD%D0%B5+%D0%B6%D0%B4%D1%83+%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B3%D0%BE.+%D0%AF+%D0%B5%D0%B3%D0%BE+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D1%83%D1%8E.;AI%2FML+Developer+%E2%80%A2+AI-Agentic+Builder;%D0%98%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F+%D0%B0%D0%BC%D0%B1%D0%B8%D1%86%D0%B8%D0%B9+%D0%B2+%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B5+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B.;%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0+%E2%80%A2+%D0%9C%D0%90%D0%98+%E2%80%A2+Applied+AI" alt="Typing SVG" />
 
 <br />
-<br />
 
-<img src="https://img.shields.io/badge/Moscow%2C%20Russia-111827?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=020617&color=4c1d95" />
-<img src="https://img.shields.io/badge/UTC%2B3-Europe%2FMoscow-111827?style=for-the-badge&logo=clockify&logoColor=white&labelColor=020617&color=312e81" />
+<img src="https://img.shields.io/badge/%D0%9C%D0%90%D0%98-%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82-21262d?style=flat-square&labelColor=0d1117&color=21262d" />
+<img src="https://img.shields.io/badge/2%20%D0%BA%D1%83%D1%80%D1%81-%D0%91%D0%92%D0%9E-21262d?style=flat-square&labelColor=0d1117&color=30363d" />
+<img src="https://img.shields.io/badge/%D0%A2%D1%80%D0%B5%D0%BA-%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B-21262d?style=flat-square&labelColor=0d1117&color=21262d" />
+<img src="https://img.shields.io/badge/%D0%A4%D0%BE%D0%BA%D1%83%D1%81-AI%2FML%20%26%20AI%20Agents-21262d?style=flat-square&labelColor=0d1117&color=58a6ff" />
 
 <br />
 <br />
 
-<a href="https://[YOUR_PORTFOLIO_URL]">
-  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-111827?style=for-the-badge&logo=vercel&logoColor=white&labelColor=020617&color=6d28d9" />
-</a>
-<a href="https://www.linkedin.com/in/[YOUR_LINKEDIN]">
-  <img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-111827?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617&color=3730a3" />
+<img src="https://img.shields.io/badge/Moscow%2C%20Russia-21262d?style=for-the-badge&logo=googlemaps&logoColor=c9d1d9&labelColor=0d1117&color=21262d" />
+<img src="https://img.shields.io/badge/UTC%2B3-Europe%2FMoscow-21262d?style=for-the-badge&logo=clockify&logoColor=c9d1d9&labelColor=0d1117&color=30363d" />
+
+<br />
+<br />
+
+<a href="https://github.com/KneelingCrown">
+  <img src="https://img.shields.io/badge/GitHub-KneelingCrown-21262d?style=for-the-badge&logo=github&logoColor=c9d1d9&labelColor=0d1117&color=21262d" />
 </a>
 <a href="mailto:Gorahvkar@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Gorahvkar%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617&color=4c1d95" />
+  <img src="https://img.shields.io/badge/Email-Gorahvkar%40gmail.com-21262d?style=for-the-badge&logo=gmail&logoColor=c9d1d9&labelColor=0d1117&color=30363d" />
 </a>
-<a href="https://github.com/[YOUR_USERNAME]">
-  <img src="https://img.shields.io/badge/GitHub-KneelingCrown-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=020617&color=111827" />
+<a href="https://t.me/KneelingCrown">
+  <img src="https://img.shields.io/badge/Telegram-%40KneelingCrown-21262d?style=for-the-badge&logo=telegram&logoColor=c9d1d9&labelColor=0d1117&color=21262d" />
+</a>
+<a href="https://www.linkedin.com/in/[YOUR_LINKEDIN]">
+  <img src="https://img.shields.io/badge/LinkedIn-%D0%A1%D0%BA%D0%BE%D1%80%D0%BE-21262d?style=for-the-badge&logo=linkedin&logoColor=c9d1d9&labelColor=0d1117&color=30363d" />
+</a>
+<a href="https://[YOUR_PORTFOLIO_URL]">
+  <img src="https://img.shields.io/badge/Portfolio-%D0%A1%D0%BA%D0%BE%D1%80%D0%BE-21262d?style=for-the-badge&logo=vercel&logoColor=c9d1d9&labelColor=0d1117&color=21262d" />
 </a>
 
 <br />
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&style=flat-square&color=6d28d9&label=Profile%20Views" />
-<img src="https://img.shields.io/github/followers/[YOUR_USERNAME]?style=flat-square&label=Followers&labelColor=020617&color=312e81" />
-<img src="https://img.shields.io/github/stars/[YOUR_USERNAME]?style=flat-square&label=Stars&labelColor=020617&color=4c1d95" />
+<img src="https://komarev.com/ghpvc/?username=KneelingCrown&style=flat-square&color=58a6ff&label=Profile%20Views" />
+<img src="https://img.shields.io/github/followers/KneelingCrown?style=flat-square&label=Followers&labelColor=0d1117&color=21262d" />
+<img src="https://img.shields.io/github/stars/KneelingCrown?style=flat-square&label=Stars&labelColor=0d1117&color=30363d" />
 
 </div>
 
 ---
 
-## About
+<h2 align="center">О себе</h2>
 
-I am **KneelingCrown**, a 19-year-old AI-focused engineering student from Moscow, currently studying at **Moscow Aviation Institute** and building a deliberate path toward applied artificial intelligence, software engineering, and AI-agentic systems.
+Я **KneelingCrown**, 19-летний студент Московского авиационного института из Москвы. Мой основной вектор - прикладной искусственный интеллект, AI/ML-инженерия, автономные AI-агенты и разработка систем, которые превращают сложность в управляемый инструмент.
 
-My current stage is not corporate seniority. It is foundation, pressure, and controlled ambition. I am developing through personal projects, Python, C/C++ fundamentals, AI tooling, GitHub-native workflows, and systematic experimentation with modern LLM ecosystems.
+Я нахожусь в начале профессионального пути, поэтому не маскирую отсутствие коммерческого опыта громкими формулировками. Вместо этого я строю прочный инженерный фундамент: Python, основы C/C++, Git, GitHub, Docker, AI-инструменты, современные LLM-экосистемы и дисциплину самостоятельной разработки.
 
-My work is centered around **Software Engineering**, **AI/ML**, **AI Agents**, and product-oriented execution. I am interested in systems that are not just clever, but useful: tools that automate work, structure thought, compress complexity, and turn intent into functioning software.
+Мой интерес - не абстрактная наука ради науки, а **прикладной AI**: продукты, автоматизация, agentic workflows, инструменты для ускорения работы, интеллектуальные системы и инженерные решения, которые можно довести до реального использования.
 
-> “Let your light so shine before men, that they may see your good works.” — Matthew 5:16
+> "Так да светит свет ваш пред людьми, чтобы они видели ваши добрые дела." - Матфея 5:16
 
-**Open to:** AI/ML Engineering · AI Agent Development · Applied AI Products · Junior / Trainee AI Roles · Open Source AI Tooling · Remote / Hybrid Collaboration
+**Открыт к:** AI/ML Engineering · AI Agent Development · Applied AI Products · Junior / Trainee AI Roles · Open Source AI Tooling · Remote / Hybrid Collaboration
 
 ---
 
-## Tech Stack
-
-### Languages
+<h2 align="center">Технологический стек</h2>
 
 <div align="center">
+
+<h3>Языки программирования</h3>
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c" />
 
-</div>
+<br />
+<br />
 
-### Frontend
-
-<div align="center">
+<h3>Фронтенд</h3>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
-</div>
+<br />
+<br />
 
-### Backend & Databases
-
-<div align="center">
+<h3>Бэкенд и базы данных</h3>
 
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,sqlite" />
 
-</div>
+<br />
+<br />
 
-### Cloud, DevOps & Tooling
-
-<div align="center">
+<h3>Cloud, DevOps и инструменты</h3>
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,bash" />
 
 <br />
 <br />
 
-<img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge&labelColor=020617&color=4c1d95" />
-<img src="https://img.shields.io/badge/GPT-111827?style=for-the-badge&labelColor=020617&color=312e81" />
-<img src="https://img.shields.io/badge/Gemini-111827?style=for-the-badge&labelColor=020617&color=3730a3" />
-<img src="https://img.shields.io/badge/GLM-111827?style=for-the-badge&labelColor=020617&color=6d28d9" />
-<img src="https://img.shields.io/badge/Hermes-111827?style=for-the-badge&labelColor=020617&color=4c1d95" />
-<img src="https://img.shields.io/badge/OpenClaw-111827?style=for-the-badge&labelColor=020617&color=312e81" />
-<img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&labelColor=020617&color=3730a3" />
-<img src="https://img.shields.io/badge/Claude%20Code-111827?style=for-the-badge&labelColor=020617&color=6d28d9" />
-<img src="https://img.shields.io/badge/Obsidian-111827?style=for-the-badge&logo=obsidian&logoColor=white&labelColor=020617&color=4c1d95" />
+<h3>AI / Engineering Environment</h3>
+
+<img src="https://img.shields.io/badge/Claude-21262d?style=for-the-badge&logo=anthropic&logoColor=c9d1d9&labelColor=0d1117&color=21262d" />
+<img src="https://img.shields.io/badge/GPT-21262d?style=for-the-badge&logo=openai&logoColor=c9d1d9&labelColor=0d1117&color=30363d" />
+<img src="https://img.shields.io/badge/Gemini-21262d?style=for-the-badge&logo=googlegemini&logoColor=c9d1d9&labelColor=0d1117&color=21262d" />
+<img src="https://img.shields.io/badge/GLM-21262d?style=for-the-badge&labelColor=0d1117&color=30363d" />
+<img src="https://img.shields.io/badge/Hermes-21262d?style=for-the-badge&labelColor=0d1117&color=21262d" />
+<img src="https://img.shields.io/badge/OpenClaw-21262d?style=for-the-badge&labelColor=0d1117&color=30363d" />
+<img src="https://img.shields.io/badge/Codex-21262d?style=for-the-badge&logo=openai&logoColor=c9d1d9&labelColor=0d1117&color=21262d" />
+<img src="https://img.shields.io/badge/Claude%20Code-21262d?style=for-the-badge&logo=anthropic&logoColor=c9d1d9&labelColor=0d1117&color=30363d" />
+<img src="https://img.shields.io/badge/Obsidian-21262d?style=for-the-badge&logo=obsidian&logoColor=c9d1d9&labelColor=0d1117&color=21262d" />
 
 </div>
 
 ---
 
-## AI / ML Expertise
+<h2 align="center">Экспертиза в AI / ML</h2>
 
-| Domain | Proficiency | Details |
+| Домен | Уровень | Детали |
 |---|---|---|
-| Machine Learning Foundations | Developing | Изучаю базовые принципы ML: данные, признаки, обучение, метрики, валидация и практическое применение моделей. |
-| LLM Engineering | Developing | Работаю с Claude, GPT, Gemini, GLM, Hermes and other model ecosystems for applied AI workflows. |
-| AI Agents | Focus Area | Интерес к autonomous workflows, tool-use, planning, memory, orchestration и agentic product logic. |
-| Prompt Engineering | Intermediate | Структурированные промпты, системные инструкции, сценарии reasoning, AI-assisted development flows. |
-| Python for AI | Intermediate | Скриптинг, автоматизация, прототипирование, работа с инженерной логикой вокруг AI-инструментов. |
-| Product AI | Developing | Проектирование AI-функций вокруг практической пользы, пользовательских сценариев и долгосрочной ценности. |
-| DevOps for AI Projects | Learning | Docker, GitHub, окружения разработки, воспроизводимость, базовая инфраструктурная дисциплина. |
-| Data Thinking | Learning | Структурирование информации, подготовка данных, аналитическое мышление и работа с неопределенностью. |
+| Основы Machine Learning | Развиваю | Изучаю данные, признаки, обучение, метрики, валидацию и практическое применение моделей. |
+| LLM Engineering | Развиваю | Работаю с Claude, GPT, Gemini, GLM, Hermes и другими моделями для прикладных AI-сценариев. |
+| AI-агенты | Главный фокус | Интересуюсь autonomous workflows, tool-use, планированием, памятью, orchestration и agentic product logic. |
+| Prompt Engineering | Средний уровень | Структурированные промпты, системные инструкции, сценарии reasoning и AI-assisted development flows. |
+| Python для AI | Средний уровень | Скриптинг, автоматизация, прототипирование, инженерная логика вокруг AI-инструментов. |
+| Product AI | Развиваю | Проектирование AI-функций вокруг реальной пользы, пользовательских сценариев и долгосрочной ценности. |
+| DevOps для AI-проектов | Изучаю | Docker, GitHub, окружения разработки, воспроизводимость и базовая инфраструктурная дисциплина. |
+| Аналитическое мышление | Изучаю | Структурирование информации, подготовка данных, работа с неопределенностью и быстрый поиск решений. |
 
 ---
 
-## Featured Projects
+<h2 align="center">Избранные проекты</h2>
 
 <details>
-<summary><strong>Monarchy — Private Commercial AI-Oriented Project</strong></summary>
+<summary><strong>Monarchy - приватный коммерческий AI-oriented проект</strong></summary>
 
 <br />
 
-> Private commercial initiative focused on AI-assisted workflows, digital community architecture, product strategy, and controlled ecosystem design.
+**Monarchy** - приватная коммерческая инициатива, связанная с AI-assisted workflows, архитектурой цифрового сообщества, продуктовой стратегией и построением управляемой экосистемы.
 
-| Attribute | Detail |
+| Поле | Детали |
 |---|---|
-| Stack | Python · AI Tooling · Git · GitHub · VSCode · Obsidian · Claude Code · Codex |
-| Scale | Private early-stage product designed from zero |
-| Performance | Structured workflows · Fast iteration · Maintainable planning · Automation-first thinking |
-| Security | Private repository · Controlled access · Limited public disclosure |
-| Impact | Product ownership · Community architecture · Technical planning · Long-term execution discipline |
-| Repository | Private / Commercial |
+| Стек | Python · AI Tooling · Git · GitHub · VSCode · Obsidian · Claude Code · Codex |
+| Масштаб | Ранняя приватная стадия; продукт и архитектура проектируются с нуля |
+| Производительность | Упор на структурированные процессы, быструю итерацию, поддерживаемое планирование и автоматизацию |
+| Безопасность | Приватный репозиторий, контролируемый доступ, ограниченное публичное раскрытие |
+| Влияние | Развитие продуктового мышления, технического владения, архитектуры сообщества и дисциплины исполнения |
+| Репозиторий | Private / Commercial |
 
-**What it does:**  
-Monarchy is a private project built around the idea of a controlled digital ecosystem. It combines product thinking, community design, technical planning, AI tooling, and structured execution. My role covers ideation, planning, tooling decisions, architecture thinking, and long-term direction.
+Проект объединяет продуктовую логику, комьюнити-дизайн, техническое планирование, AI-инструменты и долгосрочное направление развития. Моя роль включает идею, организацию, выбор инструментов, архитектурное мышление и стратегическое управление.
 
 </details>
 
 <details>
-<summary><strong>Digital Community Platform — Personal Product Initiative</strong></summary>
+<summary><strong>Digital Community Platform - личная продуктовая инициатива</strong></summary>
 
 <br />
 
-> A personal initiative for building an online platform from scratch, combining product judgment, brand direction, community design, and technical infrastructure planning.
+**Digital Community Platform** - инициатива по созданию онлайн-платформы с нуля: от концепции и брендинга до инфраструктурного мышления и правил управления сообществом.
 
-| Attribute | Detail |
+| Поле | Детали |
 |---|---|
-| Stack | GitHub · Obsidian · AI Assistants · Product Documentation · Engineering Planning |
-| Scale | Early-stage community and platform concept |
-| Performance | Rapid validation · Structured documentation · Scalable decision-making |
-| Security | Planned access control · Role separation · Moderation logic · Platform governance |
-| Impact | Entrepreneurial discipline · Product vision · Leadership · Full-cycle ownership |
-| Repository | Private / In Planning |
+| Стек | GitHub · Obsidian · AI Assistants · Product Documentation · Engineering Planning |
+| Масштаб | Ранняя стадия концепта сообщества и платформы |
+| Производительность | Быстрая проверка идей, структурированная документация, масштабируемое принятие решений |
+| Безопасность | Планируемые роли, контроль доступа, модерация и governance-логика |
+| Влияние | Предпринимательская дисциплина, продуктовое видение, лидерство и ответственность за полный цикл |
+| Репозиторий | Private / In Planning |
 
-**What it does:**  
-This project is a training ground for product-level responsibility. It requires more than code: branding, community logic, infrastructure thinking, management, and the ability to move from abstract ambition to organized execution.
+Этот проект учит не только писать код, но и строить систему: бренд, сообщество, процессы, техническое направление и управляемое движение от идеи к работающей структуре.
 
 </details>
 
 <details>
-<summary><strong>AI Learning Systems — Personal Engineering Track</strong></summary>
+<summary><strong>AI Learning Systems - личный инженерный трек</strong></summary>
 
 <br />
 
-> A structured self-development track for building practical strength in Python, AI/ML, agentic workflows, tooling, and software engineering fundamentals.
+**AI Learning Systems** - моя личная система развития в Python, AI/ML, agentic workflows, инструментах разработки и основах программной инженерии.
 
-| Attribute | Detail |
+| Поле | Детали |
 |---|---|
-| Stack | Python · C++ · Git · GitHub · Docker · Claude · GPT · Gemini · Codex · VSCode |
-| Scale | Continuous personal development through experiments, prototypes, notes, and technical exercises |
-| Performance | Learning velocity · Repeatable workflows · Clean structure · Applied understanding |
-| Security | Local-first experiments · Private repositories where required |
-| Impact | Foundation for future AI engineering roles and production-oriented project work |
-| Repository | Coming Soon |
+| Стек | Python · C++ · Git · GitHub · Docker · Claude · GPT · Gemini · Codex · VSCode |
+| Масштаб | Постоянный трек саморазвития через эксперименты, заметки, прототипы и упражнения |
+| Производительность | Скорость обучения, повторяемые процессы, чистая структура, практическое понимание |
+| Безопасность | Локальные эксперименты и приватные репозитории там, где это необходимо |
+| Влияние | Фундамент для будущих ролей в AI engineering и production-oriented разработке |
+| Репозиторий | Coming Soon |
 
-**What it does:**  
-This is my personal engineering engine: a disciplined system for learning, testing ideas, improving technical taste, and building the foundation required for serious AI product development.
+Это мой основной инженерный двигатель: система, через которую я изучаю инструменты, проверяю идеи, развиваю технический вкус и готовлюсь к серьезной прикладной AI-разработке.
 
 </details>
 
 ---
 
-## Experience
+<h2 align="center">Опыт</h2>
 
-### AI/ML Engineering Student — Moscow Aviation Institute
+### AI/ML Engineering Student - Московский авиационный институт
 
-`2025 — Present`
+`2025 - настоящее время`
 
-Currently studying at **Moscow Aviation Institute** in the field of **11.05.01 Radioelectronic Systems and Complexes**, while actively building a professional trajectory toward applied AI, software engineering, and AI-agentic systems.
+Студент направления **11.05.01 Радиоэлектронные системы и комплексы**. Параллельно выстраиваю профессиональный вектор в сторону прикладного AI, программной инженерии и AI-agentic systems.
 
-Scope of work:
-
-- Building technical fundamentals through engineering education, mathematics, systems thinking, and programming practice.
-- Planning a transition toward a more IT-focused academic direction: **01.03.02 Applied Mathematics and Computer Science** or **09.03.02 Information Systems and Technologies**.
-- Developing practical skills in Python, C++, Git, GitHub, Docker, AI tooling, and modern development environments.
-- Exploring machine learning, neural networks, LLM workflows, automation, DevOps, and product engineering.
-- Working on private and personal projects connected to AI, community platforms, and technical ownership.
+- Формирую инженерную базу через математику, системное мышление, программирование и технические дисциплины.
+- Планирую переход на более профильное IT-направление: **01.03.02 Прикладная математика и информатика** или **09.03.02 Информационные системы и технологии**.
+- Развиваю практические навыки в Python, C++, Git, GitHub, Docker, AI tooling и современных средах разработки.
+- Изучаю machine learning, нейросети, LLM workflows, automation, DevOps и product engineering.
+- Работаю над приватными и личными проектами, связанными с AI, цифровыми сообществами и техническим владением.
 
 `Python` `C++` `AI/ML` `AI Agents` `Git` `GitHub` `Docker` `Product Thinking` `Technical Planning`
 
-### IT-Focused Student — School №1547
+### IT-направление - Школа №1547
 
-`Graduated 2025`
+`Выпуск 2025`
 
-Completed 10th and 11th grades in a specialized IT-oriented educational track, gaining a foundation in exact sciences, programming fundamentals, and information technology.
+Окончил 10 и 11 классы в специализированном IT-направлении, получив фундаментальную базу в точных науках, программировании и информационных технологиях.
 
-Scope of work:
-
-- Studied in an IT-focused academic environment with emphasis on technical disciplines.
-- Built a foundation in mathematics, logic, programming basics, and information systems.
-- Completed additional C++ programming education through “Учи Дома”.
-- Participated in IT competitions, hackathons, and olympiad-style tasks.
-- Developed adaptability, fast problem solving, and the ability to operate under uncertainty.
+- Учился в профильной IT-среде с акцентом на технические дисциплины.
+- Развил базу в математике, логике, программировании и информационных системах.
+- Прошел дополнительный курс по C++ через “Учи Дома”.
+- Участвовал в IT-соревнованиях, хакатонах и олимпиадных задачах.
+- Развил адаптивность, быстрое решение задач и умение работать в условиях неопределенности.
 
 `C++` `Problem Solving` `IT Fundamentals` `Mathematics` `Adaptability` `Teamwork`
 
 ---
 
-## Achievements
+<h2 align="center">Достижения</h2>
 
 <div align="center">
 
-| Recognition | Details |
+| Признание | Детали |
 |---|---|
-| Moscow Aviation Institute | Student of 11.05.01 Radioelectronic Systems and Complexes with a growing focus on AI, software engineering, and IT-profile transition. |
-| School №1547 IT Track | Graduated from a specialized IT-focused track with a foundation in exact sciences and information technology. |
-| C++ Programming Course | Completed programming education through “Учи Дома”, strengthening core C++ fundamentals. |
-| Python Mentorship | Studied Python basics, OOP, scripting, and applied programming through personal mentorship and courses. |
-| GitHub Education | Active user of GitHub Education ecosystem and modern developer tooling. |
-| Hackathons & Olympiads | Practical experience in IT competitions, uncertainty, speed, and non-standard technical problem solving. |
-| Product Initiative | Initiator of a private digital community/platform project requiring product thinking, branding, infrastructure planning, and leadership. |
+| Московский авиационный институт | Студент 11.05.01 с фокусом на AI, software engineering и будущий переход в IT-профиль. |
+| Школа №1547 | Выпускник профильного IT-направления с базой в точных науках и информационных технологиях. |
+| Курс C++ | Прошел обучение программированию на C++ через “Учи Дома”. |
+| Python mentorship | Изучал Python, ООП, скриптинг и прикладное программирование через персональное обучение. |
+| GitHub Education | Активно использую GitHub Education и современные инструменты разработки. |
+| Хакатоны и олимпиады | Практический опыт профильных IT-соревнований, быстрых решений и работы в неопределенности. |
+| Продуктовая инициатива | Инициатор приватного digital community/platform проекта с продуктовым, техническим и организационным фокусом. |
 
 </div>
 
 ---
 
-## Certifications
+<h2 align="center">Сертификации</h2>
 
-### Amazon Web Services
+### В планах
 
-<img src="https://img.shields.io/badge/AWS-Planned-111827?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=020617&color=4c1d95" />
-<img src="https://img.shields.io/badge/AWS%20AI-Practitioner%20Target-111827?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=020617&color=312e81" />
-
-### Google Cloud
-
-<img src="https://img.shields.io/badge/Google%20Cloud-Planned-111827?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=020617&color=3730a3" />
-<img src="https://img.shields.io/badge/AI%20Engineering-Planned-111827?style=for-the-badge&labelColor=020617&color=6d28d9" />
-
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Planned-111827?style=for-the-badge&logo=oracle&logoColor=white&labelColor=020617&color=4c1d95" />
-
-### Cisco Networking Academy
-
-<img src="https://img.shields.io/badge/Cisco-Planned-111827?style=for-the-badge&logo=cisco&logoColor=white&labelColor=020617&color=312e81" />
-<img src="https://img.shields.io/badge/Python-Planned-111827?style=for-the-badge&logo=python&logoColor=white&labelColor=020617&color=3730a3" />
-
-### NPTEL / Academic AI
-
-<img src="https://img.shields.io/badge/NPTEL-Planned-111827?style=for-the-badge&labelColor=020617&color=6d28d9" />
-<img src="https://img.shields.io/badge/AI%2FML-Certifications%20In%20Progress-111827?style=for-the-badge&labelColor=020617&color=4c1d95" />
+<img src="https://img.shields.io/badge/AWS-Planned-21262d?style=for-the-badge&logo=amazonaws&logoColor=c9d1d9&labelColor=0d1117&color=21262d" />
+<img src="https://img.shields.io/badge/Google%20Cloud-Planned-21262d?style=for-the-badge&logo=googlecloud&logoColor=c9d1d9&labelColor=0d1117&color=30363d" />
+<img src="https://img.shields.io/badge/Cisco-Planned-21262d?style=for-the-badge&logo=cisco&logoColor=c9d1d9&labelColor=0d1117&color=21262d" />
+<img src="https://img.shields.io/badge/Oracle-Planned-21262d?style=for-the-badge&logo=oracle&logoColor=c9d1d9&labelColor=0d1117&color=30363d" />
+<img src="https://img.shields.io/badge/AI%2FML-In%20Progress-21262d?style=for-the-badge&labelColor=0d1117&color=58a6ff" />
 
 ---
 
-## Coding Profiles
+<h2 align="center">Профили на платформах кодинга</h2>
 
 <div align="center">
 
 <a href="https://leetcode.com/[YOUR_LEETCODE]">
-  <img src="https://img.shields.io/badge/LeetCode-Coming%20Soon-111827?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=020617&color=4c1d95" />
+  <img src="https://img.shields.io/badge/LeetCode-%D0%A1%D0%BA%D0%BE%D1%80%D0%BE-21262d?style=for-the-badge&logo=leetcode&logoColor=c9d1d9&labelColor=0d1117&color=21262d" />
 </a>
 <a href="https://www.geeksforgeeks.org/user/[YOUR_GFG]">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Coming%20Soon-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=020617&color=312e81" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-%D0%A1%D0%BA%D0%BE%D1%80%D0%BE-21262d?style=for-the-badge&logo=geeksforgeeks&logoColor=c9d1d9&labelColor=0d1117&color=30363d" />
 </a>
 <a href="https://www.hackerrank.com/[YOUR_HACKERRANK]">
-  <img src="https://img.shields.io/badge/HackerRank-Coming%20Soon-111827?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=020617&color=3730a3" />
+  <img src="https://img.shields.io/badge/HackerRank-%D0%A1%D0%BA%D0%BE%D1%80%D0%BE-21262d?style=for-the-badge&logo=hackerrank&logoColor=c9d1d9&labelColor=0d1117&color=21262d" />
 </a>
 <a href="https://www.codechef.com/users/[YOUR_CODECHEF]">
-  <img src="https://img.shields.io/badge/CodeChef-Coming%20Soon-111827?style=for-the-badge&logo=codechef&logoColor=white&labelColor=020617&color=6d28d9" />
+  <img src="https://img.shields.io/badge/CodeChef-%D0%A1%D0%BA%D0%BE%D1%80%D0%BE-21262d?style=for-the-badge&logo=codechef&logoColor=c9d1d9&labelColor=0d1117&color=30363d" />
 </a>
 
 </div>
 
 ---
 
-## GitHub Analytics
+<h2 align="center">GitHub аналитика</h2>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&hide_border=true&bg_color=020617&title_color=a78bfa&text_color=e5e7eb&icon_color=8b5cf6&ring_color=6d28d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=KneelingCrown&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e&ring_color=58a6ff&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<img height="180" src="https://streak-stats.demolab.com?user=[YOUR_USERNAME]&hide_border=true&background=020617&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub Streak" />
+<img height="180" src="https://streak-stats.demolab.com?user=KneelingCrown&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
 
 <br />
 
-<img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&hide_border=true&bg_color=020617&title_color=a78bfa&text_color=e5e7eb&icon_color=8b5cf6&langs_count=10" alt="Top Languages" />
+<img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KneelingCrown&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e&langs_count=10" alt="Top Languages" />
 
 </div>
 
 ---
 
-## GitHub Trophies
+<h2 align="center">GitHub трофеи</h2>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=[YOUR_USERNAME]&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=KneelingCrown&theme=onestar&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-## Contribution Activity
+<h2 align="center">Активность</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&bg_color=020617&color=e5e7eb&line=8b5cf6&point=a78bfa&area=true&area_color=312e81&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KneelingCrown&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&area_color=161b22&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
 
 </div>
 
 ---
 
-## Contribution Snake
+<h2 align="center">Змейка активности</h2>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/KneelingCrown/KneelingCrown/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
 ---
 
-## Current Focus
+<h2 align="center">Текущий фокус</h2>
 
 ```yaml
-Learning:
-  - Python for applied AI engineering
-  - Machine learning foundations
-  - AI-agentic workflows and autonomous tool use
-  - C/C++ fundamentals and systems thinking
-  - Docker, GitHub workflows, and modern developer tooling
+Изучаю:
+  - Python для прикладной AI-разработки
+  - Основы machine learning
+  - AI-agentic workflows и автономное использование инструментов
+  - Основы C/C++ и системное мышление
+  - Docker, GitHub workflows и современный tooling
 
-Building:
-  - Monarchy: private commercial AI-oriented project
-  - Digital community platform architecture
-  - Personal AI engineering knowledge base
-  - GitHub-native public engineering identity
+Строю:
+  - Monarchy: приватный коммерческий AI-oriented проект
+  - Архитектуру digital community platform
+  - Личную базу знаний по AI engineering
+  - Публичный инженерный профиль на GitHub
 
-Exploring:
+Исследую:
   - LLM orchestration
   - Prompt engineering
-  - AI product architecture
-  - Automation, DevOps, and deployable AI systems
+  - Архитектуру AI-first продуктов
+  - Автоматизацию, DevOps и deployable AI systems
 
-Open To:
+Открыт_к:
   - Junior AI/ML engineering opportunities
   - AI agent development
   - Applied AI product projects
   - Open-source AI tooling
   - Remote and hybrid collaboration
+```
+
+---
+
+<h2 align="center">Контакты</h2>
+
+<div align="center">
+
+<a href="mailto:Gorahvkar@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Gorahvkar%40gmail.com-21262d?style=for-the-badge&logo=gmail&logoColor=c9d1d9&labelColor=0d1117&color=21262d" />
+</a>
+<a href="mailto:Gorahv2007@mail.ru">
+  <img src="https://img.shields.io/badge/Mail.ru-Gorahv2007%40mail.ru-21262d?style=for-the-badge&logo=maildotru&logoColor=c9d1d9&labelColor=0d1117&color=30363d" />
+</a>
+<a href="https://t.me/KneelingCrown">
+  <img src="https://img.shields.io/badge/Telegram-%40KneelingCrown-21262d?style=for-the-badge&logo=telegram&logoColor=c9d1d9&labelColor=0d1117&color=21262d" />
+</a>
+<a href="https://github.com/KneelingCrown">
+  <img src="https://img.shields.io/badge/GitHub-KneelingCrown-21262d?style=for-the-badge&logo=github&logoColor=c9d1d9&labelColor=0d1117&color=30363d" />
+</a>
+<a href="https://www.linkedin.com/in/[YOUR_LINKEDIN]">
+  <img src="https://img.shields.io/badge/LinkedIn-%D0%A1%D0%BA%D0%BE%D1%80%D0%BE-21262d?style=for-the-badge&logo=linkedin&logoColor=c9d1d9&labelColor=0d1117&color=21262d" />
+</a>
+<a href="https://[YOUR_PORTFOLIO_URL]">
+  <img src="https://img.shields.io/badge/Portfolio-%D0%A1%D0%BA%D0%BE%D1%80%D0%BE-21262d?style=for-the-badge&logo=vercel&logoColor=c9d1d9&labelColor=0d1117&color=30363d" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+**Амбиция без инженерии - шум. Инженерия с амбицией становится силой.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=145&section=footer&color=0:0d1117,45:161b22,100:0d1117" />
+
+</div>
+
