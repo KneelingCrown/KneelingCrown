@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="28" viewBox="0 0 180 28">
+  <rect width="180" height="28" rx="3" fill="#1c1c1c"/>
+  <rect width="95" height="28" rx="3" fill="#000000"/>
+  <!-- Official MAI Crest in Gold -->
+  <g transform="translate(6, 3) scale(0.58)">
+    <path fill="none" stroke="#D4AF37" stroke-width="2.5" d="M18 2 C28 2, 34 10, 34 22 C34 31, 23 35, 18 36 C13 35, 2 31, 2 22 C2 10, 8 2, 18 2 Z"/>
+    <path fill="#D4AF37" d="M4 14 L32 14 L21 9 L17 9 L20 14 L8 14 Z"/>
+    <text x="18" y="29" fill="#D4AF37" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10" font-weight="900" text-anchor="middle" letter-spacing="-0.5">МАИ</text>
+  </g>
+  <text x="58" y="18" fill="#FFFFFF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" text-anchor="middle">НИУ «МАИ»</text>
+  <text x="137" y="18" fill="#D4AF37" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" text-anchor="middle">СТУДЕНТ</text>
+</svg>
