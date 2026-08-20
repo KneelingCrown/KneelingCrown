@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="165" height="28" viewBox="0 0 165 28">
+  <rect width="165" height="28" rx="3" fill="#1c1c1c"/>
+  <rect width="34" height="28" rx="3" fill="#000000"/>
+  <!-- Official MCP Ribbon Icon in Gold -->
+  <g transform="translate(6, 3) scale(0.44)">
+    <path fill="#D4AF37" fill-rule="evenodd" d="M36.14 7.86a4 4 0 0 0-5.66 0l-22.62 22.62a4 4 0 0 0 0 5.66l6.36 6.36a4 4 0 0 0 5.66 0l9.9-9.9 9.9 9.9a4 4 0 0 0 5.66 0l6.36-6.36a4 4 0 0 0 0-5.66L32.68 17.76l6.36-6.36a4 4 0 0 0 0-5.66l-2.9-3.88zm-19.8 28.28l17-17 3.53 3.53-17 17-3.53-3.53z"/>
+  </g>
+  <text x="100" y="18" fill="#FFFFFF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="bold" letter-spacing="1" text-anchor="middle">MCP PROTOCOL</text>
+</svg>
