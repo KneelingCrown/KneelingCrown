@@ -3,24 +3,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:0a0a0a,100:000000&text=KneelingCrown&fontColor=D4AF37&fontSize=56&fontAlignY=38&desc=AI%20Engineering%20%E2%80%A2%20Autonomous%20Agents%20%E2%80%A2%20Systems%20%E2%80%A2%20Moscow&descColor=E5C07B&descAlignY=58&descSize=17&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=4500&pause=1200&color=D4AF37&center=true&vCenter=true&width=940&lines=%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0+%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D1%85+%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC+%D0%B8+%D1%81%D1%83%D0%B2%D0%B5%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE+%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B0;Python+%E2%80%A2+Go+%E2%80%A2+Rust+%E2%80%A2+SQL+%E2%80%A2+AI+Infrastructure;%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0+%E2%80%A2+%D0%9D%D0%98%D0%A3+%C2%AB%D0%9C%D0%90%D0%98%C2%BB+%E2%80%A2+Applied+AI+%26+Agentic+Systems;%D0%94%D0%B8%D1%81%D1%86%D0%B8%D0%BF%D0%BB%D0%B8%D0%BD%D0%B0+%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D0%B8.+%D0%9C%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1+%D0%B0%D0%BC%D0%B1%D0%B8%D1%86%D0%B8%D0%B9." alt="Typing SVG" />
-
 <br />
-
 <img src="https://img.shields.io/badge/%D0%9D%D0%98%D0%A3%20%C2%AB%D0%9C%D0%90%D0%98%C2%BB-%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82-000000?style=flat-square&labelColor=000000&color=D4AF37" /> <img src="https://img.shields.io/badge/%D0%A4%D0%BE%D0%BA%D1%83%D1%81-AI%20Systems%20%26%20Infrastructure-000000?style=flat-square&labelColor=000000&color=D4AF37" /> <img src="https://img.shields.io/badge/Moscow%2C%20Russia-Europe%2FMoscow%20(UTC%2B3)-000000?style=flat-square&logo=googlemaps&logoColor=D4AF37&labelColor=000000&color=1c1c1c" />
-
 <br />
+<a href="https://t.me/KneelingCrown"><img src="https://img.shields.io/badge/Telegram-%40KneelingCrown-000000?style=for-the-badge&logo=telegram&logoColor=D4AF37&labelColor=000000&color=1c1c1c" alt="Telegram" /></a> <a href="mailto:Gorahvkar@gmail.com"><img src="https://img.shields.io/badge/Email-Gorahvkar%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=000000&color=1c1c1c" alt="Email" /></a> <a href="https://github.com/KneelingCrown"><img src="https://img.shields.io/badge/GitHub-KneelingCrown-000000?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=000000&color=1c1c1c" alt="GitHub" /></a> <img src="https://img.shields.io/badge/LinkedIn-Скоро-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=000000&color=1c1c1c" alt="LinkedIn" /> <img src="https://img.shields.io/badge/Portfolio-Скоро-000000?style=for-the-badge&logo=vercel&logoColor=D4AF37&labelColor=000000&color=1c1c1c" alt="Portfolio" />
 <br />
-
-<a href="https://t.me/KneelingCrown"><img src="https://img.shields.io/badge/Telegram-%40KneelingCrown-000000?style=for-the-badge&logo=telegram&logoColor=D4AF37&labelColor=000000&color=1c1c1c" alt="Telegram" /></a>
-<a href="mailto:Gorahvkar@gmail.com"><img src="https://img.shields.io/badge/Email-Gorahvkar%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=000000&color=1c1c1c" alt="Email" /></a>
-<a href="https://github.com/KneelingCrown"><img src="https://img.shields.io/badge/GitHub-KneelingCrown-000000?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=000000&color=1c1c1c" alt="GitHub" /></a>
-<img src="https://img.shields.io/badge/LinkedIn-Скоро-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=000000&color=1c1c1c" alt="LinkedIn" />
-<img src="https://img.shields.io/badge/Portfolio-Скоро-000000?style=for-the-badge&logo=vercel&logoColor=D4AF37&labelColor=000000&color=1c1c1c" alt="Portfolio" />
-
-<br />
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=KneelingCrown&style=flat-square&color=D4AF37&labelColor=000000&label=PROFILE%20VIEWS" /> <img src="https://img.shields.io/github/followers/KneelingCrown?style=flat-square&label=Followers&labelColor=000000&color=D4AF37" />
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKneelingCrown&label=PROFILE%20VIEWS&labelColor=000000&countColor=D4AF37&style=flat-square" /> <img src="https://img.shields.io/github/followers/KneelingCrown?style=flat-square&label=Followers&labelColor=000000&color=D4AF37" />
 
 </div>
 
@@ -48,7 +36,7 @@
 
 #### 🤖 AI Ecosystem & LLM Tooling
 <img src="https://img.shields.io/badge/Google_Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=D4AF37&labelColor=000000&color=1c1c1c" />
-<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=D4AF37&labelColor=000000&color=1c1c1c" />
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0Q0QUYzNyIgZD0iTTIyLjI4MiA5LjgyMWE1Ljk4NSA1Ljk4NSAwIDAgMC0uNTE2LTQuOTFhNi4wNDYgNi4wNDYgMCAwIDAtNi41MS0yLjlBNi4wNjUgNi4wNjUgMCAwIDAgNC45ODEgNC4xOGE1Ljk4NSA1Ljk4NSAwIDAgMC0zLjk5OCAyLjkgNi4wNDYgNi4wNDYgMCAwIDAgLjc0MyA3LjA5N2E1Ljk4IDUuOTggMCAwIDAgLjUxIDQuOTExYTYuMDUxIDYuMDUxIDAgMCAwIDYuNTE1IDIuOUE1Ljk4NSA1Ljk4NSAwIDAgMCAxMy4yNiAyNGE2LjA1NiA2LjA1NiAwIDAgMCA1Ljc3Mi00LjIwNmE1Ljk5IDUuOTkgMCAwIDAgMy45OTctMi45YTYuMDU2IDYuMDU2IDAgMCAwLS43NDctNy4wNzN6TTEzLjI2IDIyLjQzYTQuNDc2IDQuNDc2IDAgMCAxLTIuODc2LTEuMDRsLjE0MS0uMDgxIDQuNzc5LTIuNzU4YS43OTUuNzk1IDAgMCAwIC4zOTItLjY4MXYtNi43MzdsMi4wMiAxLjE2OGEuMDcxLjA3MSAwIDAgMSAuMDM4LjA1MnY1LjU4M2E0LjUwNCA0LjUwNCAwIDAgMS00LjQ5NCA0LjQ5NHpNMy42IDE4LjMwNGE0LjQ3IDQuNDcgMCAwIDEtLjUzNS0zLjAxNGwuMTQyLjA4NSA0Ljc4MyAyLjc1OWEuNzcxLjc3MSAwIDAgMCAuNzggMGw1Ljg0My0zLjM2OXYyLjMzMmEuMDguMDggMCAwIDEtLjAzMy4wNjJMOS43NCAxOS45NWE0LjUgNC41IDAgMCAxLTYuMTQtMS42NDZ6TTIuMzQgOC43OWE0LjQ4NCAwIDAgMSAyLjM2OC0yLjAxNlYxMi40YS43NjUuNzY1IDAgMCAwIC4zODguNjc3bDUuODE1IDMuMzU1LTIuMDIgMS4xNjhhLjA3Ni4wNzYgMCAwIDEtLjA3MSAwbC00LjgzLTIuNzg2QTQuNTA0IDQuNTA0IDAgMCAxIDIuMzQgOC43OXptMTUuNzk4IDMuNTEzbC01Ljg0My0zLjM3MHYtMi4zM2EuMDguMDggMCAwIDEgLjAzMy0uMDYybDQuODQtMi43OTZhNC41IDQuNSAwIDAgMSA2LjY3NSA0LjY2bC0uMTQxLS4wODUtNC43ODQtMi43NTlhLjc2NS43NjUgMCAwIDAtLjc4IDB6bTIuMDEzLTQuMjU0YTQuNDg1IDQuNDg1IDAgMCAxIDIuMzY4IDIuMDE2djUuNjI2YS43NjUuNzY1IDAgMCAwLS4zODguNjc3bC01LjgxNSAzLjM1NSAyLjAyLTEuMTY4YS4wNzYuMDc2IDAgMCAxIC4wNzEgMGw0LjgzIDIuNzg2YTQuNTA0IDQuNTA0IDAgMCAxLTMuMDg2LTEzLjI5MnptLTcuNjUgNC42NzVsLTIuNDg0LTEuNDMzbDIuNDg0LTEuNDMzbDIuNDg0IDEuNDMzbC0yLjQ4NCAxLjQzM3oiLz48L3N2Zz4=&labelColor=000000&color=1c1c1c" />
 <img src="https://img.shields.io/badge/Anthropic_Claude-000000?style=for-the-badge&logo=anthropic&logoColor=D4AF37&labelColor=000000&color=1c1c1c" />
 <img src="https://img.shields.io/badge/MCP_Protocol-000000?style=for-the-badge&logo=fastapi&logoColor=D4AF37&labelColor=000000&color=1c1c1c" />
 <img src="https://img.shields.io/badge/Obsidian-000000?style=for-the-badge&logo=obsidian&logoColor=D4AF37&labelColor=000000&color=1c1c1c" />
@@ -142,8 +130,16 @@
 
 <div align="center">
 
-<!-- GitHub Streak Stats -->
-<img height="185" src="https://streak-stats.demolab.com?user=KneelingCrown&background=000000&border=D4AF37&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E5C07B&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
+<!-- GitHub Stats & Streak Stats -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=KneelingCrown&show_icons=true&bg_color=000000&title_color=D4AF37&text_color=E5C07B&icon_color=D4AF37&border_color=D4AF37" alt="GitHub Stats" />
+<img height="180" src="https://streak-stats.demolab.com?user=KneelingCrown&background=000000&border=D4AF37&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E5C07B&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
+
+<br />
+<br />
+
+<!-- Top Languages & Trophies -->
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KneelingCrown&layout=compact&bg_color=000000&title_color=D4AF37&text_color=E5C07B&icon_color=D4AF37&border_color=D4AF37&langs_count=8" alt="Top Languages" />
+<img height="180" src="https://github-profile-trophy.vercel.app/?username=KneelingCrown&theme=onedark&no-frame=false&margin-w=10&margin-h=10&column=3" alt="GitHub Trophies" />
 
 <br />
 <br />
